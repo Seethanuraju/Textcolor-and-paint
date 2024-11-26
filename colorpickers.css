@@ -1,0 +1,78 @@
+h1{
+    height: 300px;
+    width: 88%;
+    border: 10px; 
+    padding: 30px ;
+    margin: auto;
+}
+/*Three division tags*/
+.textColors{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+}
+.bgColors{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+}
+.fontstyles{
+    padding: auto;
+    background-color: antiquewhite;
+    height: 200px;
+    width: 300px;
+}
+/*colors for background*/
+#BGcolor1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor2{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+/*colors for text*/
+#color1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color2{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+/*fonts for text*/
+#Font1{
+    font-family: "Colonna MT";
+    width: 45px;
+    height: 50px;
+}
+#Font2{
+    font-family: "Times New Roman";
+    width: 45px;
+    height: 50px;
+}
+#Font3{
+    font-family: "SimSun-ExtB";
+    width: 45px;
+    height: 50px;
+}
