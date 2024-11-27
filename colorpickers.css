@@ -1,0 +1,97 @@
+.main {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    justify-content: center;
+    align-items: start;
+}
+.Box {
+    border: 2px solid #ccc; /* Add a visible border */
+    background-color: #f9f9f9; /* Light background for contrast */
+    padding: 20px; /* Add padding for spacing */
+    margin: 20px auto; /* Center the box */
+    width: 90%; /* Responsive width */
+    max-width: 800px; /* Maximum width for large screens */
+    text-align: center; /* Center-align the editable text */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    border-radius: 8px; /* Round the corners */
+}
+
+h1{
+    height: 300px;
+    width: 88%;
+    border: 10px; 
+    padding: 30px ;
+    margin: auto;
+}
+/*Three division tags*/
+.textColors{
+    background-color: rgb(88, 24, 190);
+    height: 200px;
+    width: 300px;
+}
+.bgColors{
+    background-color:rgb(88, 24, 190);
+    height: 200px;
+    width: 300px;
+}
+.fontstyles{
+    padding: auto;
+    background-color: rgb(88, 24, 190);
+    height: 200px;
+    width: 300px;
+}
+/*colors for background*/
+#BGcolor1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor2{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#BGcolor3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+/*colors for text*/
+#color1{
+    background-color: red;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color2{
+    background-color: green;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+#color3{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+/*fonts for text*/
+#Font1{
+    font-family: "Colonna MT";
+    width: 45px;
+    height: 50px;
+}
+#Font2{
+    font-family: "Times New Roman";
+    width: 45px;
+    height: 50px;
+}
+#Font3{
+    font-family: "SimSun-ExtB";
+    width: 45px;
+    height: 50px;
+}
